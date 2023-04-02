@@ -38,4 +38,4 @@
  
  * Запуск игры:
  
- Запустить файл "CosmoStrannic.exe":   CosmoStrannik_ConsoleGame-main\x64\Debug\CosmoStrannic.exe
+    Запустить файл "CosmoStrannic.exe":   CosmoStrannik_ConsoleGame-main\x64\Debug\CosmoStrannic.exe
